@@ -1,7 +1,6 @@
-# HOTELS ACT
-​
-## (CHAPTER 127, SECTION 13)​
-​HOTELS LICENSING REGULATIONS
+# HOTELS LICENSING REGULATIONS
+HOTELS ACT
+(CHAPTER 127, SECTION 13)​
 
 [20th December 1974]
 
@@ -23,20 +22,20 @@ Definitions.
 ## PROCEDURE AND PROCEEDINGS OF BOARD 3- 20
 ​
 Vacancy.
-3\. The chairman shall inform the Minister of any vacancy among the members of the Board.
+3\.		The chairman shall inform the Minister of any vacancy among the members of the Board.
  
 Chairman may call meetings.
-4\. (1)	The chairman may call a meeting of the Board at any time he may think desirable for the transaction of any business within the scope of the Board.
+4\.		(1)	The chairman may call a meeting of the Board at any time he may think desirable for the transaction of any business within the scope of the Board.
  
 Cancellation and suspension of certificates of registration, etc.
-5\. (1)	The decisions of the Board concerning the suspension or cancellation of certificates of registration or the cancellation of licences shall be taken at a meeting of the Board.
+5\.		(1)	The decisions of the Board concerning the suspension or cancellation of certificates of registration or the cancellation of licences shall be taken at a meeting of the Board.
  
-(2)	An application for the grant of a certificate of registration or the grant or renewal of a licence may, if no notice of objection thereto has been lodged, be considered by the Board at any time by recording the votes of members on files circulated among them.
+(2)		An application for the grant of a certificate of registration or the grant or renewal of a licence may, if no notice of objection thereto has been lodged, be considered by the Board at any time by recording the votes of members on files circulated among them.
  
 Voting.
-6\. 1)	All questions before the Board shall be decided by a majority of votes.
+6\.		(1)	All questions before the Board shall be decided by a majority of votes.
 
-(2)	In the event of equality of votes the chairman shall have a casting vote.
+:	(2)	In the event of equality of votes the chairman shall have a casting vote.
  
 Secretary to keep minutes.
 7\. The secretary shall keep minutes of all proceedings of the Board.
