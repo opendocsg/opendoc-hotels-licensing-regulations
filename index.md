@@ -201,7 +201,7 @@ HOTELS ACT
  
 >> (b) must be retained by the licensee for a period of not less than 5 years. 
 ​
-(4)	A licensee, an employee of the licensee or any person required to furnish particulars under regulation 27 must not enter or cause or allow to be entered in a record mentioned in paragraph (1), any particulars which the licensee, employee of the licensee or person (as the case may be) knows, or could by the exercise of reasonable diligence have ascertained, to be false. 
+> (4)	A licensee, an employee of the licensee or any person required to furnish particulars under regulation 27 must not enter or cause or allow to be entered in a record mentioned in paragraph (1), any particulars which the licensee, employee of the licensee or person (as the case may be) knows, or could by the exercise of reasonable diligence have ascertained, to be false. 
 Deaths.
 
 29\. 
@@ -304,9 +304,13 @@ Deaths.
 > (1)	The chairman or any member of the Board or any person duly authorised by the chairman in writing may at any time enter a hotel registered under the Act or any premises reasonably suspected of being used for the purpose of a hotel and make such search and inspection as is considered necessary.
  
 > (2)	Without prejudice to the generality of the foregoing powers of search and inspection, any such person may —
+
 >> (a)	inspect registers and other documents kept by the management;
+
 >> (b)	inspect the building and all parts thereof and the facilities for cooking and sanitation;
+
 >> (c)	enter into rooms to identify residents; and
+
 >> (d)	question the licensee and employees.
  
 > (3)	Any police officer not below the rank of sergeant may be authorised in writing by any police officer of the rank of Assistant Superintendent of Police or above, to search the luggage of hotel guests for explosives, firearms or other offensive items without a warrant from a magistrate.
