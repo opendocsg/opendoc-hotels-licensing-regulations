@@ -135,7 +135,9 @@ HOTELS ACT
 20\.The fee payable for a licence shall be $100 per annum.
  
 ## CONTROL AND MANAGEMENT 21- 30
-Licence not to be transferred.
+
+**Licence not to be transferred.**
+
 21\. No licensee shall transfer his licence to any other person.
  
 **Sign-board.**
@@ -192,12 +194,12 @@ Licence not to be transferred.
 > (2)	The record mentioned in paragraph (1) may be kept in the form of one or more physical or electronic records as the licensee considers appropriate. 
 
 > (3) Any entry recorded under paragraph (1) in relation to a guest - 
-> * (a) must be acknowledged by or on behalf of that guest using any of the following methods: 
->> (i) the signature of the guest;
->> (ii) the right thumb print of the guest; 
+>> (a) must be acknowledged by or on behalf of that guest using any of the following methods: 
+>> * (i) the signature of the guest;
+>> * (ii) the right thumb print of the guest; 
 >> * (iii) such other method as the licensee considers appropriate; and 
  
-> * (b) must be retained by the licensee for a period of not less than 5 years. 
+>> (b) must be retained by the licensee for a period of not less than 5 years. 
 ​
 (4)	A licensee, an employee of the licensee or any person required to furnish particulars under regulation 27 must not enter or cause or allow to be entered in a record mentioned in paragraph (1), any particulars which the licensee, employee of the licensee or person (as the case may be) knows, or could by the exercise of reasonable diligence have ascertained, to be false. 
 Deaths.
@@ -302,12 +304,12 @@ Deaths.
 > (1)	The chairman or any member of the Board or any person duly authorised by the chairman in writing may at any time enter a hotel registered under the Act or any premises reasonably suspected of being used for the purpose of a hotel and make such search and inspection as is considered necessary.
  
 > (2)	Without prejudice to the generality of the foregoing powers of search and inspection, any such person may —
-> * (a)	inspect registers and other documents kept by the management;
-> * (b)	inspect the building and all parts thereof and the facilities for cooking and sanitation;
-> * (c)	enter into rooms to identify residents; and
-> * (d)	question the licensee and employees.
+>> (a)	inspect registers and other documents kept by the management;
+>> (b)	inspect the building and all parts thereof and the facilities for cooking and sanitation;
+>> (c)	enter into rooms to identify residents; and
+>> (d)	question the licensee and employees.
  
-> * (3)	Any police officer not below the rank of sergeant may be authorised in writing by any police officer of the rank of Assistant Superintendent of Police or above, to search the luggage of hotel guests for explosives, firearms or other offensive items without a warrant from a magistrate.
+> (3)	Any police officer not below the rank of sergeant may be authorised in writing by any police officer of the rank of Assistant Superintendent of Police or above, to search the luggage of hotel guests for explosives, firearms or other offensive items without a warrant from a magistrate.
  
 **Penalties.**
 
