@@ -230,17 +230,17 @@ Deaths.
  
 **Kitchens.**
 
-37. Kitchens other than those that are licensed as a food establishment under the Environmental Public Health Act (Cap. 95) shall have a minimum floor area of 6.5 square metres and shall be maintained to the satisfaction of the Commissioner of Public Health.
+37\. Kitchens other than those that are licensed as a food establishment under the Environmental Public Health Act (Cap. 95) shall have a minimum floor area of 6.5 square metres and shall be maintained to the satisfaction of the Commissioner of Public Health.
  
 **Premises to be well maintained.**
 
-38. (1)	Hotel premises shall be kept clean at all times and shall be maintained to the satisfaction of the Commissioner of Public Health.
+38\. (1)	Hotel premises shall be kept clean at all times and shall be maintained to the satisfaction of the Commissioner of Public Health.
  
 (2)	Every part of the structure of the hotel premises shall also be maintained at all times in good order and repair.
  
 **Fire-fighting equipment and escapes.**
 
-39. (1)	Fire-fighting equipment shall be installed and maintained in all hotels to the satisfaction of the Director of the Singapore Fire Service.
+39\. (1)	Fire-fighting equipment shall be installed and maintained in all hotels to the satisfaction of the Director of the Singapore Fire Service.
  
 (2)	Adequate staircases and exits shall be provided and maintained in all hotels to the satisfaction of the Director of the Singapore Fire Service.
  
@@ -250,13 +250,13 @@ Deaths.
  
 **Handrails to staircases.**
 
-40. Every staircase shall be provided with sufficient handrails securely fixed and all such staircases and handrails shall be kept in good repair and structurally sound condition.
+40\. Every staircase shall be provided with sufficient handrails securely fixed and all such staircases and handrails shall be kept in good repair and structurally sound condition.
  ​​
 ## GENERAL 41- 43
 
 **Exemptions.**
 
-41. The following classes of premises are exempted from the provisions of the Act and these Regulations:
+41\. The following classes of premises are exempted from the provisions of the Act and these Regulations:
  
 (a)	student hostels approved by the Board; and
  
@@ -264,7 +264,7 @@ Deaths.
  
 **Inspection.**
 
-42. (1)	The chairman or any member of the Board or any person duly authorised by the chairman in writing may at any time enter a hotel registered under the Act or any premises reasonably suspected of being used for the purpose of a hotel and make such search and inspection as is considered necessary.
+42\. (1)	The chairman or any member of the Board or any person duly authorised by the chairman in writing may at any time enter a hotel registered under the Act or any premises reasonably suspected of being used for the purpose of a hotel and make such search and inspection as is considered necessary.
  
 (2)	Without prejudice to the generality of the foregoing powers of search and inspection, any such person may —
 (a)	inspect registers and other documents kept by the management;
@@ -276,7 +276,7 @@ Deaths.
  
 **Penalties.**
 
-43. (1)	Any person who contravenes or fails to comply with any of the provisions of these Regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000, and for a second or subsequent conviction to a fine not exceeding $2,000.
+43\. (1) Any person who contravenes or fails to comply with any of the provisions of these Regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000, and for a second or subsequent conviction to a fine not exceeding $2,000.
  
 (2)	In addition to any other penalty imposed, the court may cancel or suspend any certificate of registration and may cancel any licence granted under the Act.
  
