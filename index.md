@@ -28,11 +28,11 @@ HOTELS ACT
 
 3\.		The chairman shall inform the Minister of any vacancy among the members of the Board.
  
-Chairman may call meetings.
+**Chairman may call meetings.**
 
 4\.		(1)	The chairman may call a meeting of the Board at any time he may think desirable for the transaction of any business within the scope of the Board.
  
-Cancellation and suspension of certificates of registration, etc.
+**Cancellation and suspension of certificates of registration, etc.**
 
 5\.		(1)	The decisions of the Board concerning the suspension or cancellation of certificates of registration or the cancellation of licences shall be taken at a meeting of the Board.
  
@@ -40,7 +40,7 @@ Cancellation and suspension of certificates of registration, etc.
  
 **Voting.**
 
-6\.		(1)	All questions before the Board shall be decided by a majority of votes.
+6\.    (1)	All questions before the Board shall be decided by a majority of votes.
 
 :	(2)	In the event of equality of votes the chairman shall have a casting vote.
  
