@@ -4,7 +4,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-coffeescript
 elastic_search:
-  index: templateindex
+  index: hotelslicensereg
   doctype: bare
 environment: DEV
 server_LOCAL: http://127.0.0.1:3000
